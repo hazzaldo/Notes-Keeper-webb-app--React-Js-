@@ -4,4 +4,4 @@
 
 > Created by Hareth Naji (@hazzaldo), the site utilises HTML, CSS, React.js as well as Material UI Google package to beautify the website's styling.
 
-> The website is hosted live at link: 
+> The website is hosted live at link: https://hazzaldo.github.io/Notes-Keeper-webb-app--React-Js-/
