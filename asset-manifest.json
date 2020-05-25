@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Notes-Keeper-webb-app--React-Js-/static/css/main.b9b694ed.chunk.css",
+    "main.js": "/Notes-Keeper-webb-app--React-Js-/static/js/main.94ee36e3.chunk.js",
+    "main.js.map": "/Notes-Keeper-webb-app--React-Js-/static/js/main.94ee36e3.chunk.js.map",
+    "runtime-main.js": "/Notes-Keeper-webb-app--React-Js-/static/js/runtime-main.9119cb31.js",
+    "runtime-main.js.map": "/Notes-Keeper-webb-app--React-Js-/static/js/runtime-main.9119cb31.js.map",
+    "static/js/2.4acd22f8.chunk.js": "/Notes-Keeper-webb-app--React-Js-/static/js/2.4acd22f8.chunk.js",
+    "static/js/2.4acd22f8.chunk.js.map": "/Notes-Keeper-webb-app--React-Js-/static/js/2.4acd22f8.chunk.js.map",
+    "index.html": "/Notes-Keeper-webb-app--React-Js-/index.html",
+    "precache-manifest.9fabf98f610813aa18f227dc81a0ffd8.js": "/Notes-Keeper-webb-app--React-Js-/precache-manifest.9fabf98f610813aa18f227dc81a0ffd8.js",
+    "service-worker.js": "/Notes-Keeper-webb-app--React-Js-/service-worker.js",
+    "static/css/main.b9b694ed.chunk.css.map": "/Notes-Keeper-webb-app--React-Js-/static/css/main.b9b694ed.chunk.css.map",
+    "static/js/2.4acd22f8.chunk.js.LICENSE.txt": "/Notes-Keeper-webb-app--React-Js-/static/js/2.4acd22f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9119cb31.js",
+    "static/js/2.4acd22f8.chunk.js",
+    "static/css/main.b9b694ed.chunk.css",
+    "static/js/main.94ee36e3.chunk.js"
+  ]
+}
