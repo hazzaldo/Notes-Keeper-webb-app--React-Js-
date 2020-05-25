@@ -1,4 +1,7 @@
 import React, { useState } from 'react';
+import AddIcon from '@material-ui/icons/Add';
+import Fab from '@material-ui/core/Fab';
+import Zoom from '@material-ui/core/Zoom';
 
 function CreateArea(props) {
     const [noteEntry, setNoteEntry] = useState({
@@ -32,9 +35,11 @@ function CreateArea(props) {
       <form className="create-note">
         <input onChange={handleChange} name='title' placeholder='Title' value={noteEntry.title}/>
         <textarea onChange={handleChange} name='content' placeholder='Take a note...' rows='3' value={noteEntry.content}/>
-        <button onClick={submitNote}>
-            Add
-        </button>
+        <Zoom in={true}>
+          <Fab onClick={submitNote}>
+              <AddIcon />
+          </Fab>
+        </Zoom>
       </form>
     </div>
   );
